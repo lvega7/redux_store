@@ -4,4 +4,4 @@ Fro this application I refactored the code to use Redux. The user is able to cre
 
 Heroku link: https://fast-beyond-86609.herokuapp.com/
 
-the link deploys but is not showing the items on the screen. It does show locally however. 
+The link deploys but is not showing the items on the screen. It does show locally however. 
